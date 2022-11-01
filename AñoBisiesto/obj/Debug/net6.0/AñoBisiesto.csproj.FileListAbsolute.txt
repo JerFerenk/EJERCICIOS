@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\bin\Debug\net6.0\AñoBisiesto.exe
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\bin\Debug\net6.0\AñoBisiesto.deps.json
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\bin\Debug\net6.0\AñoBisiesto.runtimeconfig.json
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\bin\Debug\net6.0\AñoBisiesto.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\bin\Debug\net6.0\AñoBisiesto.pdb
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\AñoBisiesto.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\AñoBisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\AñoBisiesto.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\AñoBisiesto.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\AñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\AñoBisiesto.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\refint\AñoBisiesto.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\AñoBisiesto.pdb
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\AñoBisiesto.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\AñoBisiesto\obj\Debug\net6.0\ref\AñoBisiesto.dll

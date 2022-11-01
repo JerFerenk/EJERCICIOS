@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\bin\Debug\net6.0\Multiplo.exe
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\bin\Debug\net6.0\Multiplo.deps.json
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\bin\Debug\net6.0\Multiplo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\bin\Debug\net6.0\Multiplo.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\bin\Debug\net6.0\Multiplo.pdb
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\Multiplo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\Multiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\Multiplo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\Multiplo.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\Multiplo.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\refint\Multiplo.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\Multiplo.pdb
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\Multiplo.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Multiplo\obj\Debug\net6.0\ref\Multiplo.dll

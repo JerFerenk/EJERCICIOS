@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\bin\Debug\net6.0\parimpar.exe
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\bin\Debug\net6.0\parimpar.deps.json
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\bin\Debug\net6.0\parimpar.runtimeconfig.json
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\bin\Debug\net6.0\parimpar.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\bin\Debug\net6.0\parimpar.pdb
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\parimpar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\parimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\parimpar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\parimpar.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\parimpar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\parimpar.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\refint\parimpar.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\parimpar.pdb
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\parimpar.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\ConsoleApp1\obj\Debug\net6.0\ref\parimpar.dll

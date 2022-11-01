@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\bin\Debug\net6.0\Ordenación3nNumeros.exe
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\bin\Debug\net6.0\Ordenación3nNumeros.deps.json
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\bin\Debug\net6.0\Ordenación3nNumeros.runtimeconfig.json
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\bin\Debug\net6.0\Ordenación3nNumeros.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\bin\Debug\net6.0\Ordenación3nNumeros.pdb
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\Ordenación3nNumeros.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\Ordenación3nNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\Ordenación3nNumeros.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\Ordenación3nNumeros.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\Ordenación3nNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\Ordenación3nNumeros.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\refint\Ordenación3nNumeros.dll
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\Ordenación3nNumeros.pdb
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\Ordenación3nNumeros.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\IDS\Programación POO\computers\Ordenación3nNumeros\obj\Debug\net6.0\ref\Ordenación3nNumeros.dll
